@@ -7,7 +7,7 @@ I am a Computer Engineering student at the University of Guelph, who strives to 
 I also have a passion for fitness, and I am apart of the Canadian Powerlifting Union.
 
 ## 🖥️ What can I do ?
-During my education and personal projects I have aquired many skills. Here are the most notable ones:
+During my education, work experience and personal projects I have aquired many skills. Here are the most notable ones:
 
 ![C# Badge](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.NET Badge](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
